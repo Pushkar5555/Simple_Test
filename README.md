@@ -1,2 +1,2 @@
-# Simple_Test
+# Sample_Test
 SpringMVC_DataBaseConnection
